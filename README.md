@@ -1,7 +1,6 @@
 <h1 align="center"> Hey there! I'm Chinchin 👋 </h1>
 <h3 align="center">I'm a computer engineering student who loves philosophy and math. 📚 I used to focus on development. 💻 Lately, exploring some new things 🔐.</h3>
-
----
+<br>
 
 <h2>🛠️ My Tech Stacks</h2>
 <p>I've worked with:</p>
@@ -76,10 +75,11 @@
 
 <h2>🌐 Connect with Me</h2>
 <p>
-    <a href="https://linkedin.com/in/nattarin chetpattananondh" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nattarin chetpattananondh" height="30" width="40" /></a> &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/nattarin-chetpattananondh-8656a5312/" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nattarin Chetpattananondh LinkedIn" height="30" width="40" />
+</a> &nbsp;&nbsp;
     <a href="mailto:nattarinchet@gmail.com" target="_blank" rel="noreferrer">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email me" height="40" width="40" />
     </a>
 </p>
 
----
