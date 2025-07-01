@@ -1,18 +1,16 @@
-
-<h1 align="center"> Hey there! I'm Chinchin 👋 </h1>
-<h3 align="center">I'm a computer engineering student who loves philosophy and math. 📚 I used to focus on development. 💻 Lately, exploring some new things🔐.</h3>
+<h1 align="center">Hey there! I'm Chinchin 👋</h1>
+<h3 align="center">I'm a computer engineering student who loves philosophy and math. 📚 I used to focus on development. 💻 Lately, exploring some new things 🔐.</h3>
 
 ---
 
 <table align="center">
   <tr>
-    <td width="65%" valign="top">
-      <h2>🛠️ My Tech Stacks</h2>
+    <td width="55%" valign="top"> <h2>🛠️ My Tech Stacks</h2>
       <p>I've worked with:</p>
       <table>
         <tr>
           <td width="50%" valign="top">
-            <h3>Programming Languages</h3>
+            <p><b>Programming Languages</b></p>
             <p align="left">
                 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> &nbsp;&nbsp;
                 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> &nbsp;&nbsp;
@@ -23,7 +21,7 @@
             </p>
           </td>
           <td width="50%" valign="top">
-            <h3>Frontend Development</h3>
+            <p><b>Frontend Development</b></p>
             <p align="left">
                 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> &nbsp;&nbsp;
                 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> &nbsp;&nbsp;
@@ -35,26 +33,26 @@
         </tr>
         <tr>
           <td width="50%" valign="top">
-            <h3>Backend & APIs</h3>
+            <p><b>Backend & APIs</b></p>
             <p align="left">
                 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a> &nbsp;&nbsp;
                 <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/> </a>
             </p>
           </td>
           <td width="50%" valign="top">
-            <h3>Databases</h3>
+            <p><b>Databases</b></p>
             <p align="left">
                 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> &nbsp;&nbsp;
                 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> &nbsp;&nbsp;
-               <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a>
-              <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> &nbsp;&nbsp;
-                <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+                <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> &nbsp;&nbsp;
+                <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> &nbsp;&nbsp;
+                <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a>
             </p>
           </td>
         </tr>
         <tr>
           <td width="50%" valign="top">
-            <h3>Tools & Platforms</h3>
+            <p><b>Tools & Platforms</b></p>
             <p align="left">
                 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> &nbsp;&nbsp;
                 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> &nbsp;&nbsp;
@@ -63,7 +61,7 @@
             </p>
           </td>
           <td width="50%" valign="top">
-            <h3>Testing & Automation</h3>
+            <p><b>Testing & Automation</b></p>
             <p align="left">
                 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> &nbsp;&nbsp;
                 <a href="https://docs.pytest.org/en/stable/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytest/pytest-icon.svg" alt="pytest" width="40" height="40"/> </a>
@@ -72,8 +70,7 @@
         </tr>
       </table>
     </td>
-    <td width="35%" valign="top">
-      <h2>📊 My Language Breakdown</h2>
+    <td width="45%" valign="top"> <h2>📊 My Language Breakdown</h2>
       <p align="center">
           <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cchinchillaz&layout=compact&hide_title=true&theme=radical" alt="cchinchillaz Top Languages" />
       </p>
